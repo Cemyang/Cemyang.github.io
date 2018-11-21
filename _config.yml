@@ -1,4 +1,4 @@
-baseurl: /img
+baseurl: /
 
 markdown: kramdown
 kramdown:
